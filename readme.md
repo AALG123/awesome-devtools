@@ -96,6 +96,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
 * [Hive Intelligence](https://hiveintelligence.xyz/) - Connect any AI agent to blockchain data through our standardized MCP protocol.
+* [Gandr](https://gandr.ai/) - Text to speech API for voice agents: 146 ms first audio byte, correct readback of numbers and dates, $10 per 1M characters, watermarked output.
 
 ## Design & UI Tools
 
